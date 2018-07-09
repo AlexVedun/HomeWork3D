@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork3D", "HomeWork3D\HomeWork3D.csproj", "{A966B409-7F45-4D55-8ACD-4578E3B96CE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A966B409-7F45-4D55-8ACD-4578E3B96CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A966B409-7F45-4D55-8ACD-4578E3B96CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A966B409-7F45-4D55-8ACD-4578E3B96CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A966B409-7F45-4D55-8ACD-4578E3B96CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD338690-15BD-491B-B995-33E69997AE6E}
+	EndGlobalSection
+EndGlobal
